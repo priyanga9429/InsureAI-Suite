@@ -9,7 +9,6 @@
 | :--- | :--- |
 | **Module** | Module 5 — LLM Integration & Advanced Prompt Engineering |
 | **Target Engine** | Google Gemini 2.0 Flash / Groq Llama-3 / OpenAI GPT-4o-mini |
-| **Author** | InsureAI Machine Learning & AI Team |
 | **Document Version** | v1.0 (Final Submission) |
 
 </div>
